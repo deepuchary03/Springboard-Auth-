@@ -1,5 +1,8 @@
 ﻿# Springboard-Auth-
- ![](./output.jpg)
-  ![](./output2.jpg)
+ ## checking the endpoints with Postman
+ ![](./output.png)
+ ## Details stored in the database
+  ![](./output2.png)
+
 
 
